@@ -1,2 +1,1 @@
-# wiki
-Documentation for TrakR
+[wiki](https://github.com/trak-trakr/wiki/wiki)
